@@ -29,7 +29,7 @@ const MOCK_CONTACTS = [
 export default function HeroSection() {
   return (
     <>
-      <section className="w-full lg:h-[755px]  bg-cover bg-center bg-no-repeat flex flex-col justify-end pb-10 sm:pb-32 py-32 lg:pb-[110px]">
+      <section className="w-full lg:h-[755px] bg-cover bg-center bg-no-repeat flex flex-col justify-end pb-10 sm:pb-32 py-32 lg:pb-[110px]">
         <div className="container flex items-start justify-between flex-col-reverse lg:flex-row">
           <div className="w-full lg:max-w-[520px]">
             <p className="font-poppins text-red-700 font-medium">Meu nome é</p>

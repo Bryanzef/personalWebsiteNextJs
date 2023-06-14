@@ -1,12 +1,12 @@
 {
-  "name": "portfolio-tutorial-2023",
+  "name": "bryansitesextjs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
+
   },
   "dependencies": {
     "@graphcms/rich-text-react-renderer": "0.6.1",
@@ -37,11 +37,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.6.5",
     "@commitlint/config-conventional": "^17.6.5",
-    "eslint": "^8.42.0",
-    "eslint-config-prettier": "^8.8.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "husky": "^8.0.3",
-    "prettier": "^2.8.8",
-    "prettier-plugin-tailwind": "^2.2.12"
+    "husky": "^8.0.3"
+
   }
 }
